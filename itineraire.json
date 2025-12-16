@@ -1,0 +1,131 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "L'Archipel Mystérieux des Féroé",
+  "budget_total": "1300€",
+  "duree": "2 jours",
+  "temps_vol": "3h30 avec escale depuis Paris, France",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion à Tórshavn",
+      "legende": "Arrivée en douceur dans cet archipel mystérieux. Après avoir récupéré votre véhicule, vous prendrez la route vers la capitale, Tórshavn. Profitez de l'après-midi pour vous imprégner de l'atmosphère unique de la plus petite capitale du monde, avec ses maisons colorées et son port animé. Une première immersion dans la culture féroïenne vous attend.",
+      "lieu": "Vagar / Tórshavn",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Vagar et prise en charge du véhicule</strong>: Atterrissez à l'unique aéroport des Féroé et récupérez votre voiture de location, essentielle pour explorer l'archipel en toute liberté. Le trajet vers Tórshavn offre déjà des paysages époustouflants.",
+        "🚶‍♂️ <strong>Découverte de Tórshavn et Tinganes</strong>: Flânez dans les rues pavées de la capitale, admirez les maisons aux toits d'herbe et explorez le quartier historique de Tinganes, siège du gouvernement féroïen depuis des siècles. C'est une immersion charmante dans l'histoire et la vie locale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Les tunnels sous-marins sont payants aux Féroé. Le paiement se fait en ligne ou dans les stations-service, ou via votre loueur de voiture."
+        },
+        {
+          "symbole": "📱",
+          "titre": "Astuce",
+          "texte": "Achetez une carte SIM locale à l'aéroport ou dans une supérette pour la navigation GPS et la communication, la couverture est bonne."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Merveilles naturelles de Vagar",
+      "legende": "Aujourd'hui, explorez l'île de Vagar, un concentré de paysages emblématiques des Féroé. Des falaises vertigineuses aux lacs suspendus, chaque virage révèle une nouvelle merveille naturelle. Préparez-vous à des vues à couper le souffle et à des randonnées mémorables avant de prendre votre vol retour, la tête pleine de souvenirs.",
+      "lieu": "Vagar",
+      "activites": [
+        "🏞️ <strong>Randonnée au lac Sørvágsvatn (Le lac suspendu)</strong>: Partez pour une randonnée modérée vers le point de vue de Bøsdalafossur, où le lac semble se jeter directement dans l'océan. C'est l'un des paysages les plus iconiques et photogéniques des Féroé, offrant des vues spectaculaires.",
+        "⛰️ <strong>Visite du village de Gásadalur et de la cascade Múlafossur</strong>: Conduisez jusqu'au pittoresque village de Gásadalur, autrefois isolé, et admirez la majestueuse cascade de Múlafossur se jetant directement dans l'Atlantique. C'est une image emblématique de la beauté sauvage des îles.",
+        "✈️ <strong>Départ de l'aéroport de Vagar</strong>: Après avoir rendu votre véhicule, envolez-vous depuis l'aéroport de Vagar, emportant avec vous des souvenirs inoubliables de cet archipel unique et préservé."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🥾",
+          "titre": "Équipement",
+          "texte": "La randonnée au lac Sørvágsvatn peut être boueuse, prévoyez de bonnes chaussures de marche imperméables et des vêtements adaptés aux changements météo."
+        },
+        {
+          "symbole": "🌦️",
+          "titre": "Météo",
+          "texte": "Les conditions météorologiques changent rapidement aux Féroé, habillez-vous en couches et soyez prêt pour la pluie, le vent et le soleil, parfois dans la même heure."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "500€/pers (Vol A/R Paris-Vagar avec escale, classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "250€/pers (Location de voiture pour 2 jours, essence et tunnels inclus)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "120€/pers (2 petits-déjeuners, 2 déjeuners, 2 dîners, budget moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "350€/pers (2 nuits en hôtel 3 étoiles)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "50€/pers (Quelques entrées de sites ou petites excursions)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de juin, juillet et août.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Les Îles Féroé comptent environ 54 000 habitants, majoritairement concentrés sur les îles principales. La population est très accueillante.",
+      "symbole": "👨‍👩‍👧‍👦"
+    },
+    {
+      "titre": "Territoire autonome du Royaume du Danemark, les Féroé ont leur propre langue (le féroïen) et une culture distincte, riche en traditions maritimes.",
+      "symbole": "🇫🇴"
+    },
+    {
+      "titre": "Il y a plus de moutons que d'habitants aux Féroé ! Le temps peut changer radicalement en quelques minutes, passant du soleil à la brume épaisse.",
+      "symbole": "🐑"
+    },
+    {
+      "titre": "La monnaie est la Couronne féroïenne (DKK), liée à la Couronne danoise. Les cartes de crédit sont largement acceptées.",
+      "symbole": "💳"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations pour votre voyage aux Féroé",
+      "titre": "Visit Faroe Islands",
+      "url": "https://visitfaroeislands.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo locales pour planifier vos activités",
+      "titre": "Météo Féroé (Yr.no)",
+      "url": "https://www.yr.no/en/forecast/daily-table/2-2618792/Faroe%20Islands/T%C3%B3rshavn",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Informations sur les tunnels sous-marins et leur paiement",
+      "titre": "Faroe Islands Tunnels (Tunnil.fo)",
+      "url": "https://www.tunnil.fo/en/",
+      "symbole": "🚗"
+    }
+  ]
+}
